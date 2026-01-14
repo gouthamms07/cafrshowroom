@@ -1,0 +1,6 @@
+version: '3'
+services:
+  showroom:
+    image: used-car-showroom
+    ports:
+      - "8080:8080"
